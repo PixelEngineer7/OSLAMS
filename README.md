@@ -10,3 +10,4 @@ Reports are generated automatically upon requesting the system, the system has i
 
 The system was built using different module like Bootstrap , CSS , HTML5 and programming language used was PHP7,for validation JavaScript , for handling jQuery was used. Without those modules this project would not be a success and would not be user interactive.
 
+A Software User Guide is also provided.
